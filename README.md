@@ -7,4 +7,4 @@ Product Management Fundamentals,
 Agile Product Management,
 UI/UX Design,
 Digital Product Management,
-Product Marketing & Sales,
+Product Marketing & Sales
